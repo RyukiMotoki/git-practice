@@ -1,2 +1,2 @@
 hoge
-nullnull
+book
